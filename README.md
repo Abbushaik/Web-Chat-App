@@ -1,6 +1,6 @@
 # Artichoke Chat <img src="/public/images/artichoke.ico" height="50" width="50">
 A simple green themed web chat made to learn Node.js and Network Programming<br>
-Deployed on Koyeb https://technical-kariotta-alphaclan-c13d0974.koyeb.app/<br>
+Deployed on Koyeb https://bewildered-rozelle-alphaclan-9d686504.koyeb.app/<br>
 Safari and IE are not supported!
 
 # Technologies 🧾
