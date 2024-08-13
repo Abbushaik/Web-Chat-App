@@ -9,6 +9,7 @@ Safari and IE are not supported!
 <a href="https://expressjs.com/"><img src="https://miro.medium.com/max/6668/1*XP-mZOrIqX7OsFInN2ngRQ.png" width="170"></a>
 <a href="https://bulma.io/"><img src="https://ruko.s3.ap-southeast-1.amazonaws.com/rumahkomunitas.com/tulisan/100319104121_bulma-banner.png" width="170"></a>
 <a href="https://www.npmjs.com"><img src="https://www.drupal.org/files/project-images/Npm-logo.png" width="165" height="60"></a>
+<a href="https://www.w3schools.com/html/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/w_html_logo_icon_170241.png" width="165" height="60"></a>
 
 
 # Preview 🔍
