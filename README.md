@@ -39,4 +39,4 @@ Safari and IE are not supported!
 * Gathering front-end and back-end together
 
 # License 📑 
-(c) 2020 Ilya Revenko. [MIT License](https://tldrlegal.com/license/mit-license)
+(c) 2024 MOHAMMAD ABUBACKAR. [MIT License](https://tldrlegal.com/license/mit-license)
